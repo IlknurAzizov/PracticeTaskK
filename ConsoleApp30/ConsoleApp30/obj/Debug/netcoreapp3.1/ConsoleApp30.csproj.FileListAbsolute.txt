@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\netcoreapp3.1\ConsoleApp30.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\netcoreapp3.1\ConsoleApp30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\netcoreapp3.1\ConsoleApp30.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\netcoreapp3.1\ConsoleApp30.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\netcoreapp3.1\ConsoleApp30.csproj.CoreCompileInputs.cache
